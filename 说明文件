@@ -1,0 +1,2 @@
+一种开源的分布式消息系统Nats
+NATS是一个开源的、轻量级的、高性能的分布式消息通信系统，实现了高可伸缩性和优雅的发布/订阅模型。NATS适合云基础设施的消息通信系统、IoT设备消息通信和微服务架构。Apcera团队负责维护NATS服务器（Golang语言开发）和客户端（包括Python、Ruby、Node.js、Elixir、Java、Nginx、C和C#），开源社区也贡献了一些客户端库，包括Rust、PHP、Lua等语言的库。 
